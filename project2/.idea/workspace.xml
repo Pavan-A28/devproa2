@@ -1,15 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="075bfade-470d-46f8-ad81-6eeba2160213" name="Changes" comment="" />
+    <list default="true" id="075bfade-470d-46f8-ad81-6eeba2160213" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project22/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project22/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project22/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project22/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project22/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project22/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project22/docs/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project22/docs/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project22/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project22/src/main/java/org/example/LoginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project22/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project22/src/main/resources/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project22/src/main/resources/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project22/src/main/resources/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project22/src/test/java/org/test/WebpageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project3/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project3/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project3/docs/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project3/docs/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project3/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project3/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project3/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project3/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project3/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project3/src/main/java/com/example/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2yBQb2d7nMtOj1rOjLLFwKxau4a" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,9 +54,23 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
     "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/project2/src/main/java/org/example/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="075bfade-470d-46f8-ad81-6eeba2160213" name="Changes" comment="" />
@@ -31,16 +80,5 @@
       <updated>1749305560198</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
